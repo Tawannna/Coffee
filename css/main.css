@@ -1069,3 +1069,13 @@ hr:after {
     }
     
 }
+
+/* Image */
+.menuwal{
+    width: 200px;
+    height: 200px;
+}
+.beanwall{
+    width: 350px;
+    height: 250px;
+}
